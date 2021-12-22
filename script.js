@@ -101,6 +101,7 @@ function isGameOver() {
     return gameOver;
 }
 
+//draw Score
 function drawScore() {
     ctx.fillStyle = 'white';
     ctx.font = '10px Verdana'
